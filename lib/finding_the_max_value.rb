@@ -8,6 +8,6 @@ def find_max_value(array)
   win
 end
 
-m=[1,100,99]
+m=[1,100,99,951]
 
 puts find_max_value(m)
