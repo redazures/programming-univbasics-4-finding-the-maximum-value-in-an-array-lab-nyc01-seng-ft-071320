@@ -11,3 +11,5 @@ def find_max_value(array)
   end
   win
 end
+
+m=[1,100,99]
