@@ -1,6 +1,6 @@
 def find_max_value(array)
   # Add your solution here
-  win=0
+  win=-100
   array.each do |value|
     win=value if win<value
   end
